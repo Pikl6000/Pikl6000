@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pikl6000
 - 👀 I’m interested in java and web development
-- 🌱 I’m currently learning PHD and C#/C++
+- 🌱 I’m currently learning PHD and C
 - 📫 How to reach me : Still working on website
 
 <!---
