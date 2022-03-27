@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pikl6000
 - 👀 I’m interested in Java and web development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 
 <!---
 Pikl6000/Pikl6000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
