@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pikl6000
+- 👋 Hi, I’m @Jozef
 - 👀 I’m interested in Java and web development
 - 🌱 I’m currently learning Mobile development in Kotlin and C programming
 
